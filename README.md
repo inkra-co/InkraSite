@@ -7,3 +7,8 @@ Acá encontraras los detalles de la implementación de este proyecto.
 ## Observaciones
 1. Mensaje para la documentación
 2. Actividad de la documentación
+
+```c#
+var variable = string.Empty;
+
+```
