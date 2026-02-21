@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "benefits": "Benefits",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Request Consultation"
+  },
+  "hero": {
+    "title": "We drive your business with Artificial Intelligence and Intelligent Automation",
+    "subtitle": "We transform business processes with tailored AI solutions that deliver measurable results and competitive advantage.",
+    "cta_primary": "Request Consultation",
+    "cta_secondary": "Schedule Meeting"
+  },
+  "about": {
+    "label": "About Inkra",
+    "title": "Strategy, technology, and real results",
+    "description": "At Inkra, we combine strategic consulting with cutting-edge technology to transform your company's operations. We don't just implement tools: we design intelligent solutions that integrate with your business and generate real impact.",
+    "differentiator_title": "Our approach",
+    "differentiator_text": "We work as strategic partners for our clients, deeply understanding their needs to deliver customized solutions that maximize return on investment.",
+    "stat1_value": "150+",
+    "stat1_label": "Projects delivered",
+    "stat2_value": "40%",
+    "stat2_label": "Average cost reduction",
+    "stat3_value": "98%",
+    "stat3_label": "Client satisfaction"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Comprehensive solutions for your digital transformation",
+    "items": [
+      {
+        "title": "Artificial Intelligence Consulting",
+        "description": "We evaluate your operations and identify high-impact opportunities to implement AI strategically.",
+        "benefit": "Faster, data-driven decisions"
+      },
+      {
+        "title": "Business Process Automation",
+        "description": "We design and implement automated workflows that eliminate repetitive tasks and reduce errors.",
+        "benefit": "Time savings and reduced operational costs"
+      },
+      {
+        "title": "Data Analysis & Machine Learning",
+        "description": "We turn your data into actionable insights with predictive models and advanced analytics.",
+        "benefit": "Anticipating trends and market opportunities"
+      },
+      {
+        "title": "Systems Integration",
+        "description": "We connect your platforms and tools to create an efficient and frictionless digital ecosystem.",
+        "benefit": "Unified operations and continuous information flow"
+      },
+      {
+        "title": "Generative AI Implementation",
+        "description": "We apply generative AI models to create content, automate responses, and drive innovation.",
+        "benefit": "Accelerated innovation and personalized experiences"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Benefits",
+    "title": "Results that transform your business",
+    "items": [
+      {
+        "title": "Reduced operational costs",
+        "description": "Optimize resources and eliminate inefficiencies with automated and intelligent processes."
+      },
+      {
+        "title": "Time optimization",
+        "description": "Accelerate workflows and free your team to focus on what's strategic."
+      },
+      {
+        "title": "Data-driven decisions",
+        "description": "Make informed decisions with advanced analytics and predictive models."
+      },
+      {
+        "title": "Technology scalability",
+        "description": "Implement solutions that grow with your company and adapt to the market."
+      },
+      {
+        "title": "Competitive advantage",
+        "description": "Stand out with cutting-edge technology applied to your business model."
+      }
+    ]
+  },
+  "process": {
+    "label": "Process",
+    "title": "How we work",
+    "subtitle": "A structured approach to guarantee exceptional results in every project.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnosis",
+        "description": "We thoroughly analyze your operations, identify opportunities, and define clear objectives."
+      },
+      {
+        "step": "02",
+        "title": "Solution Design",
+        "description": "We create a customized strategy with the optimal technology architecture for your case."
+      },
+      {
+        "step": "03",
+        "title": "Implementation",
+        "description": "We execute the plan with agile methodology, ensuring quality and meeting deadlines."
+      },
+      {
+        "step": "04",
+        "title": "Continuous Optimization",
+        "description": "We monitor results, adjust models, and ensure constant improvement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Transform your business with artificial intelligence",
+    "subtitle": "Schedule a free consultation and discover how AI can drive your business.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Request",
+      "name_placeholder": "Your full name",
+      "email_placeholder": "you@company.com",
+      "company_placeholder": "Your company name",
+      "message_placeholder": "Tell us about your project or need..."
+    }
+  },
+  "footer": {
+    "description": "Specialized consulting in Artificial Intelligence and Process Automation for businesses.",
+    "nav_title": "Navigation",
+    "services_title": "Services",
+    "contact_title": "Contact",
+    "email": "contact@inkra.io",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
