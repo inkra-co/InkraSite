@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "benefits": "Vorteile",
+    "process": "Prozess",
+    "contact": "Kontakt",
+    "cta": "Beratung anfordern"
+  },
+  "hero": {
+    "title": "Wir treiben Ihr Unternehmen mit Künstlicher Intelligenz und intelligenter Automatisierung voran",
+    "subtitle": "Wir transformieren Geschäftsprozesse mit maßgeschneiderten KI-Lösungen, die messbare Ergebnisse und Wettbewerbsvorteile liefern.",
+    "cta_primary": "Beratung anfordern",
+    "cta_secondary": "Termin vereinbaren"
+  },
+  "about": {
+    "label": "Über Inkra",
+    "title": "Strategie, Technologie und echte Ergebnisse",
+    "description": "Bei Inkra verbinden wir strategische Beratung mit modernster Technologie, um die Abläufe Ihres Unternehmens zu transformieren. Wir implementieren nicht nur Tools: Wir entwerfen intelligente Lösungen, die sich in Ihr Unternehmen integrieren und echte Wirkung erzielen.",
+    "differentiator_title": "Unser Ansatz",
+    "differentiator_text": "Wir arbeiten als strategische Partner unserer Kunden und verstehen ihre Bedürfnisse tiefgreifend, um maßgeschneiderte Lösungen zu liefern, die den Return on Investment maximieren.",
+    "stat1_value": "150+",
+    "stat1_label": "Abgeschlossene Projekte",
+    "stat2_value": "40%",
+    "stat2_label": "Durchschnittliche Kostenreduzierung",
+    "stat3_value": "98%",
+    "stat3_label": "Kundenzufriedenheit"
+  },
+  "services": {
+    "label": "Dienstleistungen",
+    "title": "Umfassende Lösungen für Ihre digitale Transformation",
+    "items": [
+      {
+        "title": "Beratung für Künstliche Intelligenz",
+        "description": "Wir bewerten Ihre Abläufe und identifizieren Möglichkeiten mit hoher Wirkung für die strategische Implementierung von KI.",
+        "benefit": "Schnellere, datengestützte Entscheidungen"
+      },
+      {
+        "title": "Automatisierung von Geschäftsprozessen",
+        "description": "Wir entwerfen und implementieren automatisierte Workflows, die repetitive Aufgaben eliminieren und Fehler reduzieren.",
+        "benefit": "Zeitersparnis und reduzierte Betriebskosten"
+      },
+      {
+        "title": "Datenanalyse & Machine Learning",
+        "description": "Wir verwandeln Ihre Daten in umsetzbare Erkenntnisse mit prädiktiven Modellen und fortgeschrittener Analytik.",
+        "benefit": "Vorausschau auf Trends und Marktchancen"
+      },
+      {
+        "title": "Systemintegration",
+        "description": "Wir verbinden Ihre Plattformen und Tools, um ein effizientes und reibungsloses digitales Ökosystem zu schaffen.",
+        "benefit": "Einheitliche Abläufe und kontinuierlicher Informationsfluss"
+      },
+      {
+        "title": "Implementierung generativer KI",
+        "description": "Wir setzen generative KI-Modelle ein, um Inhalte zu erstellen, Antworten zu automatisieren und Innovation voranzutreiben.",
+        "benefit": "Beschleunigte Innovation und personalisierte Erfahrungen"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Vorteile",
+    "title": "Ergebnisse, die Ihr Unternehmen transformieren",
+    "items": [
+      {
+        "title": "Reduzierte Betriebskosten",
+        "description": "Optimieren Sie Ressourcen und beseitigen Sie Ineffizienzen mit automatisierten und intelligenten Prozessen."
+      },
+      {
+        "title": "Zeitoptimierung",
+        "description": "Beschleunigen Sie Arbeitsabläufe und befreien Sie Ihr Team für strategische Aufgaben."
+      },
+      {
+        "title": "Datengestützte Entscheidungen",
+        "description": "Treffen Sie fundierte Entscheidungen mit fortgeschrittener Analytik und prädiktiven Modellen."
+      },
+      {
+        "title": "Technologische Skalierbarkeit",
+        "description": "Implementieren Sie Lösungen, die mit Ihrem Unternehmen wachsen und sich dem Markt anpassen."
+      },
+      {
+        "title": "Wettbewerbsvorteil",
+        "description": "Heben Sie sich mit modernster Technologie ab, die auf Ihr Geschäftsmodell angewendet wird."
+      }
+    ]
+  },
+  "process": {
+    "label": "Prozess",
+    "title": "Wie wir arbeiten",
+    "subtitle": "Ein strukturierter Ansatz, um außergewöhnliche Ergebnisse in jedem Projekt zu garantieren.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnose",
+        "description": "Wir analysieren Ihre Abläufe gründlich, identifizieren Chancen und definieren klare Ziele."
+      },
+      {
+        "step": "02",
+        "title": "Lösungsdesign",
+        "description": "Wir erstellen eine maßgeschneiderte Strategie mit der optimalen Technologiearchitektur für Ihren Fall."
+      },
+      {
+        "step": "03",
+        "title": "Implementierung",
+        "description": "Wir führen den Plan mit agiler Methodik aus und sichern Qualität und Termintreue."
+      },
+      {
+        "step": "04",
+        "title": "Kontinuierliche Optimierung",
+        "description": "Wir überwachen Ergebnisse, passen Modelle an und sorgen für ständige Verbesserung."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Transformieren Sie Ihr Unternehmen mit Künstlicher Intelligenz",
+    "subtitle": "Vereinbaren Sie eine kostenlose Beratung und entdecken Sie, wie KI Ihr Unternehmen vorantreiben kann.",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "message": "Nachricht",
+      "submit": "Anfrage senden",
+      "name_placeholder": "Ihr vollständiger Name",
+      "email_placeholder": "sie@unternehmen.de",
+      "company_placeholder": "Name Ihres Unternehmens",
+      "message_placeholder": "Erzählen Sie uns von Ihrem Projekt oder Bedarf..."
+    }
+  },
+  "footer": {
+    "description": "Spezialisierte Beratung in Künstlicher Intelligenz und Prozessautomatisierung für Unternehmen.",
+    "nav_title": "Navigation",
+    "services_title": "Dienstleistungen",
+    "contact_title": "Kontakt",
+    "email": "kontakt@inkra.io",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen"
+  }
+}

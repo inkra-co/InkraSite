@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "benefits": "Beneficios",
+    "process": "Proceso",
+    "contact": "Contacto",
+    "cta": "Solicitar Consultoría"
+  },
+  "hero": {
+    "title": "Impulsamos tu empresa con Inteligencia Artificial y Automatización Inteligente",
+    "subtitle": "Transformamos procesos empresariales con soluciones de IA a medida que generan resultados medibles y ventaja competitiva.",
+    "cta_primary": "Solicitar Consultoría",
+    "cta_secondary": "Agendar Reunión"
+  },
+  "about": {
+    "label": "Sobre Inkra",
+    "title": "Estrategia, tecnología y resultados reales",
+    "description": "En Inkra combinamos consultoría estratégica con tecnología de vanguardia para transformar la operación de tu empresa. No solo implementamos herramientas: diseñamos soluciones inteligentes que se integran a tu negocio y generan impacto real.",
+    "differentiator_title": "Nuestro enfoque",
+    "differentiator_text": "Trabajamos como socios estratégicos de nuestros clientes, entendiendo a fondo sus necesidades para entregar soluciones personalizadas que maximicen el retorno de inversión.",
+    "stat1_value": "150+",
+    "stat1_label": "Proyectos entregados",
+    "stat2_value": "40%",
+    "stat2_label": "Reducción promedio de costos",
+    "stat3_value": "98%",
+    "stat3_label": "Satisfacción del cliente"
+  },
+  "services": {
+    "label": "Servicios",
+    "title": "Soluciones integrales para tu transformación digital",
+    "items": [
+      {
+        "title": "Consultoría en Inteligencia Artificial",
+        "description": "Evaluamos tu operación e identificamos oportunidades de alto impacto para implementar IA de manera estratégica.",
+        "benefit": "Decisiones más rápidas y basadas en datos"
+      },
+      {
+        "title": "Automatización de Procesos Empresariales",
+        "description": "Diseñamos e implementamos flujos automatizados que eliminan tareas repetitivas y reducen errores.",
+        "benefit": "Ahorro de tiempo y reducción de costos operativos"
+      },
+      {
+        "title": "Análisis de Datos y Machine Learning",
+        "description": "Convertimos tus datos en información accionable con modelos predictivos y analítica avanzada.",
+        "benefit": "Anticipación de tendencias y oportunidades de mercado"
+      },
+      {
+        "title": "Integración de Sistemas",
+        "description": "Conectamos tus plataformas y herramientas para crear un ecosistema digital eficiente y sin fricciones.",
+        "benefit": "Operación unificada y flujo de información continuo"
+      },
+      {
+        "title": "Implementación de IA Generativa",
+        "description": "Aplicamos modelos de IA generativa para crear contenido, automatizar respuestas y potenciar la innovación.",
+        "benefit": "Innovación acelerada y experiencias personalizadas"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Beneficios",
+    "title": "Resultados que transforman tu negocio",
+    "items": [
+      {
+        "title": "Reducción de costos operativos",
+        "description": "Optimiza recursos y elimina ineficiencias con procesos automatizados e inteligentes."
+      },
+      {
+        "title": "Optimización de tiempos",
+        "description": "Acelera flujos de trabajo y libera a tu equipo para enfocarse en lo estratégico."
+      },
+      {
+        "title": "Decisiones basadas en datos",
+        "description": "Toma decisiones informadas con analítica avanzada y modelos predictivos."
+      },
+      {
+        "title": "Escalabilidad tecnológica",
+        "description": "Implementa soluciones que crecen con tu empresa y se adaptan al mercado."
+      },
+      {
+        "title": "Ventaja competitiva",
+        "description": "Diferénciate con tecnología de vanguardia aplicada a tu modelo de negocio."
+      }
+    ]
+  },
+  "process": {
+    "label": "Proceso",
+    "title": "Cómo trabajamos",
+    "subtitle": "Un enfoque estructurado para garantizar resultados excepcionales en cada proyecto.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnóstico",
+        "description": "Analizamos a fondo tu operación, identificamos oportunidades y definimos objetivos claros."
+      },
+      {
+        "step": "02",
+        "title": "Diseño de Solución",
+        "description": "Creamos una estrategia personalizada con la arquitectura tecnológica óptima para tu caso."
+      },
+      {
+        "step": "03",
+        "title": "Implementación",
+        "description": "Ejecutamos el plan con metodología ágil, asegurando calidad y cumplimiento de plazos."
+      },
+      {
+        "step": "04",
+        "title": "Optimización Continua",
+        "description": "Monitoreamos resultados, ajustamos modelos y garantizamos mejora constante."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Transforma tu empresa con inteligencia artificial",
+    "subtitle": "Agenda una consultoría gratuita y descubre cómo la IA puede impulsar tu negocio.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar Solicitud",
+      "name_placeholder": "Tu nombre completo",
+      "email_placeholder": "tu@empresa.com",
+      "company_placeholder": "Nombre de tu empresa",
+      "message_placeholder": "Cuéntanos sobre tu proyecto o necesidad..."
+    }
+  },
+  "footer": {
+    "description": "Consultoría especializada en Inteligencia Artificial y Automatización de Procesos para empresas.",
+    "nav_title": "Navegación",
+    "services_title": "Servicios",
+    "contact_title": "Contacto",
+    "email": "contacto@inkra.io",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}
