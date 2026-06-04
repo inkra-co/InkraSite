@@ -1,0 +1,9 @@
+allowBuilds:
+  sharp: true
+minimumReleaseAgeExclude:
+  - next@16.1.7
+  - lodash@4.17.24
+  - next@16.2.3
+  - postcss@8.5.10
+  - next@16.2.5
+  - next@16.2.6
